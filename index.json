@@ -1,0 +1,13 @@
+{
+  "name": "Shop",
+  "description": "Apps",
+  "apps": [
+    {
+      "packageName": "com.termux",
+      "name": "Termux",
+      "summary": "",
+      "versionName": "0.118.3",
+      "apk": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk"
+    }
+  ]
+}
